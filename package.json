@@ -1,0 +1,29 @@
+{
+  "name": "discordrpg",
+  "version": "1.0.0",
+  "description": "A Node package to make use of the DiscordRPG API easier.",
+  "main": "drpg.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discordrpg",
+    "discord",
+    "rpg",
+    "api",
+    "dungeons"
+  ],
+  "author": "The Conceptionist",
+  "license": "ISC",
+  "dependencies": {
+    "snekfetch": "^3.6.4"
+  },
+  "bugs": {
+    "url": "https://github.com/the-conceptionist/discordrpg/issues"
+  },
+  "homepage": "https://github.com/the-conceptionist/discordrpg#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/the-conceptionist/discordrpg.git"
+  }
+}
