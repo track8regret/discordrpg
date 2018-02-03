@@ -6,24 +6,17 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [
-    "discordrpg",
-    "discord",
-    "rpg",
-    "api",
-    "dungeons"
-  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/the-conceptionist/discordrpg.git"
+  },
   "author": "The Conceptionist",
   "license": "ISC",
-  "dependencies": {
-    "snekfetch": "^3.6.4"
-  },
   "bugs": {
     "url": "https://github.com/the-conceptionist/discordrpg/issues"
   },
   "homepage": "https://github.com/the-conceptionist/discordrpg#readme",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/the-conceptionist/discordrpg.git"
+  "dependencies": {
+    "snekfetch": "^3.6.4"
   }
 }
